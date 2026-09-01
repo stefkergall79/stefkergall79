@@ -1,4 +1,4 @@
-## Bonjour tout le monde ! 👋
+## Bonjour tout le monde !
 
 J'édite pour vous des partitions en lilypond. [Passez commande](mailto:stef.kergall@gmail.com) si vous avez besoin !
 
